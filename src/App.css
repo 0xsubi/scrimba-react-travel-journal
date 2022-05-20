@@ -62,6 +62,7 @@ body {
   display: flex;
   justify-content: left;
   position: relative;
+  align-items: center;
 }
 
 .card--country {
